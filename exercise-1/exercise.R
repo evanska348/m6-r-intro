@@ -1,9 +1,9 @@
 # Exercise-1: practice with basic syntax
 
 # Create a variable `hometown` that stores the city in which you were born
-hometown  <- Edmonds
+hometown  <- "Edmonds"
 # Assign your name to the variable `my.name`
-my.name <- Evan
+my.name <- "Evan"
 # Assign your height to a variable `my.height`
 my.height <- 5.10
 # Create a variable `puppies` equal to the number of puppies you'd like to have
